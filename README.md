@@ -2,7 +2,7 @@
 
 A simple and clean RESTful API for managing **Users**, **Posts**, and **Comments**, built with **Node.js**, **Express**, **Sequelize**, and **MySQL**.
 
-> Supports full CRUD operations, filtering, search, relationships, and bulk actions — ideal for learning, testing, or starting a small social backend.
+> Supports full CRUD operations, filtering, search, relationships, and bulk actions — for learning.
 
  **Postman Documentation**:  
 [https://documenter.getpostman.com/view/45055428/2sB34fnggY](https://documenter.getpostman.com/view/45055428/2sB34fnggY)
